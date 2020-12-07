@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "ローカルリポジトリで変更\n";
+    std::cout << "リモートリポジトリで変更した場所\n";
 
     return 0;
 }
