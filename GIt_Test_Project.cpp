@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-int main()
+int  main（）//コメントアウト
 {
     std::cout << "リモートリポジトリで変更した場所a\n";
 
